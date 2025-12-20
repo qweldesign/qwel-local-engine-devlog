@@ -4,4 +4,4 @@
 
 ---
 
-クレップ - 子供達と Scratch, pt.js, Three.js, Blender などを使った遊びと制作の記録の置き場  
+クレップ - 子供達と Scratch, p5.js, Three.js, Blender などを使った遊びと制作の記録の置き場  
